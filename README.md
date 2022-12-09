@@ -1,28 +1,12 @@
 # Redes-Neuronales
 Caso de estudio: Procesamiento de imagenes
-# markdown wiki template
+caso de estudio: Segmentacion de imagenes medicas
+Caso de estudio: Redes neuronales aplicadas a segmentacion de imagenes medicas con la arquitectura UNET
 
-This is a template to be cloned to quickly set up a repository for keeping documentation in [Markdown](https://en.wikipedia.org/wiki/Markdown).
 
-Specifically, it arranges how image files are handled.
+**Tabla de contenidos:**
 
-Additionally, it provides some handy settings for VS Code users.
-
-You may remove `.markdown-wiki-template` directory if you don't need this documentation.
-
-**Table of content:**
-
-- [Prerequisites](#prerequisites)
-- [Get started](#get-started)
-- [Images](#images)
-  - [`.images` directory](#images-directory)
-  - [`pre-commit` hook](#pre-commit-hook)
-- [markdownlint](#markdownlint)
-- [VS Code](#vs-code)
-  - [VS Code internal settings](#vs-code-internal-settings)
-  - ["Paste Image" extenstion](#paste-image-extenstion)
-  - ["Markdown All in One" extension](#markdown-all-in-one-extension)
-  - ["markdownlint" extension](#markdownlint-extension)
+-Proyectos variados 2021-2022
 
 ## Prerequisites
 
