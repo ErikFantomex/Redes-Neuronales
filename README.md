@@ -1,7 +1,9 @@
 # Redes-Neuronales
-Caso de estudio: Procesamiento de imagenes
-caso de estudio: Segmentacion de imagenes medicas
-Caso de estudio: Redes neuronales aplicadas a segmentacion de imagenes medicas con la arquitectura UNET
+-Caso de estudio: Procesamiento de imagenes.
+
+-Caso de estudio: Segmentacion de imagenes medicas.
+
+-Caso de estudio: Redes neuronales aplicadas a segmentacion de imagenes medicas con la arquitectura UNET.
 
 
 **Tabla de contenidos:**
